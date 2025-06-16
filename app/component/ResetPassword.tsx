@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
   buttonSecondary: {
     backgroundColor: 'transparent',
     padding: 15,
-    borderRadius: 4,
+    borderRadius: 5,
     alignItems: 'center',
     marginTop: 10,
     borderColor: '#777',
